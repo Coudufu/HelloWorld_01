@@ -17,5 +17,6 @@ public class Main {
         ConfigurableApplicationContext run=SpringApplication.run(Main.class,args);
         Pet bean1 = run.getBean(Pet.class);
         System.out.println(bean1);
+        System.out.println("版本2添加的新功能");
     }
 }

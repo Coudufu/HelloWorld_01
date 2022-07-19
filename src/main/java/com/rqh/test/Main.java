@@ -21,5 +21,6 @@ public class Main {
         System.out.println("master分支添加的内容");
         System.out.println("代码冲突master");
         System.out.println("代码冲突hot-fix");
+        System.out.println("push测试");
     }
 }

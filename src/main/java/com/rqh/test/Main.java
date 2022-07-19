@@ -20,5 +20,6 @@ public class Main {
         System.out.println("版本2添加的新功能");
         System.out.println("master分支添加的内容");
         System.out.println("代码冲突master");
+        System.out.println("代码冲突hot-fix");
     }
 }

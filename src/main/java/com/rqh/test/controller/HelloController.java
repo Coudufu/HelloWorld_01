@@ -10,6 +10,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String hello(){
+        System.out.println("hot-fix的内容");
         return "Hello springBoot !";
     }
 }

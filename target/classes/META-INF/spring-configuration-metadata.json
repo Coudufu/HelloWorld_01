@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "mycar",
+      "type": "com.rqh.test.moudle.Car",
+      "sourceType": "com.rqh.test.moudle.Car"
+    },
+    {
+      "name": "pet",
+      "type": "com.rqh.test.moudle.Pet",
+      "sourceType": "com.rqh.test.moudle.Pet"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mycar.brand",
+      "type": "java.lang.String",
+      "sourceType": "com.rqh.test.moudle.Car"
+    },
+    {
+      "name": "mycar.price",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rqh.test.moudle.Car"
+    },
+    {
+      "name": "pet.name",
+      "type": "java.lang.String",
+      "sourceType": "com.rqh.test.moudle.Pet"
+    }
+  ],
+  "hints": []
+}

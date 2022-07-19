@@ -18,5 +18,6 @@ public class Main {
         Pet bean1 = run.getBean(Pet.class);
         System.out.println(bean1);
         System.out.println("版本2添加的新功能");
+        System.out.println("代码冲突hot-fix");
     }
 }

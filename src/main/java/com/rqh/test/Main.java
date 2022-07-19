@@ -22,5 +22,6 @@ public class Main {
         System.out.println("代码冲突master");
         System.out.println("代码冲突hot-fix");
         System.out.println("push测试");
+        System.out.println("pull测试");
     }
 }
